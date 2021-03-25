@@ -1,0 +1,47 @@
+---
+home: true
+title: Friend-Router Project
+
+heroText: Friendly Router Project
+tagline: A Friendly Open Source Database for Linux, Unix and BSD systems
+actionText: Get Started →
+actionLink: /database/
+features:
+- title: Open Source Friendly Database
+  details: |
+    Linux/Unix/BSD compatible hardware listed for you! 
+    It's coming from around the world, in many different
+    shape and architecture.
+  
+- title: Tested Hardware
+  details: |
+    Many of the hardware present here will be tested 
+    and reviewed. 
+    
+- title: Benchmarked Hardware
+  details: |
+    Test is not enough, if you buy a new device, you
+    need to know its performance. Well, we want to
+    benchmark it for you! 
+    
+- title: Switches, Routers and Firewall Configuration
+  details: |
+    Minimal setup for Open Source Switches, Routers and
+    Firewalls. We like to share our own configuration
+    on Linux, Unix and BSD systems.
+    
+- title: Share, share and share!
+  details: |
+    We share our experience and our knowledge with
+    everyone interested! Nothing to hide, it's open
+    sourced.
+    
+- title: Cool Mascot
+  details: |
+    A project is nothing without a mascot... We
+    have Switchy, our connected cat! :)
+
+sidebar: false
+tags: [switches, routers, firewalls, open-source, hardware, device]
+footer: "Copyright © 2017-present Mathieu Kerjouan"
+---
