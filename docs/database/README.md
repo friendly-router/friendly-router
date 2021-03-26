@@ -2,7 +2,7 @@
 title: Database
 prev: /
 next: /switches/
-sidebar: false
+sidebar: auto
 ---
 
 A database of Friendly Open Source Hardwares for switches, routers and
@@ -36,6 +36,10 @@ firewalls. Here the first list made in 2017. It will be updated soon.
 |CSTIPC|K-Q77NS|[http://www.cstipc.com/en/products/product_detial_26.html](http://www.cstipc.com/en/products/product_detial_26.html)|x86_64|
 |CSTIPC|K-D56NS|[http://www.cstipc.com/en/products/product_detial_15.html](http://www.cstipc.com/en/products/product_detial_15.html)|x86_64|
 |CSTIPC|K-945GSN|[http://www.cstipc.com/en/products/product_detial_16.html](http://www.cstipc.com/en/products/product_detial_16.html)|x86_64|
+|CSTIPC|K-H61NS|[http://www.cstipc.com/EN/networks_100000015639258.html](http://www.cstipc.com/EN/networks_100000015639258.html)|x86_64|
+|CSTIPC|K-H10NS|[http://www.cstipc.com/EN/networks_100000014918261.html](http://www.cstipc.com/EN/networks_100000014918261.html)|x86_64|
+|CSTIPC|K-B89NS|[http://www.cstipc.com/EN/networks_100000014234213.html](http://www.cstipc.com/EN/networks_100000014234213.html)|x86_64|
+
 
 ## [gigabyte](gigabyte/)
 
@@ -149,6 +153,12 @@ firewalls. Here the first list made in 2017. It will be updated soon.
 |supermicro|A1SRM-LN7F-2758|[https://www.supermicro.nl/products/motherboard/Atom/X10/A1SRM-LN7F-2758.cfm](https://www.supermicro.nl/products/motherboard/Atom/X10/A1SRM-LN7F-2758.cfm)|x86_64|
 |supermicro|X11SSH-LN4F|[https://www.supermicro.nl/products/motherboard/Xeon/C236_C232/X11SSH-LN4F.cfm](https://www.supermicro.nl/products/motherboard/Xeon/C236_C232/X11SSH-LN4F.cfm)|x86_64|
 |supermicro|X11SBA-LN4F|[https://www.supermicro.nl/products/motherboard/X11/X11SBA-LN4F.cfm](https://www.supermicro.nl/products/motherboard/X11/X11SBA-LN4F.cfm)|x86_64|
+
+## [traverse](traverse/)
+
+|Name|Reference or ID|Link|Architecture|
+|----|---------------|----|------------|
+|traverse|ten64|[https://www.crowdsupply.com/traverse-technologies/ten64](https://www.crowdsupply.com/traverse-technologies/ten64)|ARM|
 
 ## [turris](turris/)
 

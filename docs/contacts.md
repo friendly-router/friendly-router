@@ -1,11 +1,20 @@
 ---
-prev: /mascot
+license: CC BY-SA
+authors:
+  - Mathieu Kerjouan
+
+title: Contacts
+prev: /contribute
 next: /
+tags: [contacts, email, mail, mastodon, irc, github, gitlab]
 ---
 
-# contacts
-
-mail: contact [at] friendly-router [dot] org
+ * mail: contact [at] friendly-router [dot] org
+ * mastodon: [https://bsd.network/@friendlyrouter](https://bsd.network/@friendlyrouter)
+ * twitter: [https://twitter.com/FriendlyRouter](https://twitter.com/FriendlyRouter)
+ * irc: [irc://irc.freenode.net/#friendly-router](irc://irc.freenode.net/#friendly-router)
+ * github: [https://github.com/friendly-router](https://github.com/friendly-router)
+ * gitlab: [https://gitlab.com/friendly-router](https://gitlab.com/friendly-router)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

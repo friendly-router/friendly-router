@@ -13,7 +13,10 @@ module.exports = {
             { text: 'Routers', link: '/routers/' },
             { text: 'Firewalls', link: '/firewalls/' },
             { text: 'Mascot', link: '/mascot/' },
-            { text: 'Contacts', link: '/contacts' }
+            { text: 'Contribute', link: '/contribute' },
+            { text: 'Thanks', link: '/thanks' },
+            { text: 'Contacts', link: '/contacts' },
+            { text: 'Resources', link: '/resources' }
         ],
         nextLinks: true,
         prevLinks: true

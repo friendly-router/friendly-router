@@ -1,7 +1,12 @@
 ---
+license: CC BY-SA
+authors:
+  - Mathieu Kerjouan
+
 title: Mascot
 prev: /firewalls/
-next: /contacts
+next: /contribute
+tags: [mascot, switchy]
 ---
 
 ![Switchy](/images/switchy.png "Switchy")

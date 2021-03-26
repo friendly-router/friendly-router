@@ -1,4 +1,8 @@
 ---
+license: CC BY-SA
+authors:
+  - Mathieu Kerjouan
+
 home: true
 title: Friend-Router Project
 

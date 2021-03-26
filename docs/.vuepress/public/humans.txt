@@ -1,0 +1,32 @@
+/* TEAM */
+
+   Founder: Mathieu Kerjouan
+   Contact: contact [at] friendly-router [dot] org
+   Twitter: @niamtokik
+   Mastodon: @niamtokik@bsd.network
+   From: Europe
+
+/* THANKS */
+
+   Commenter: h3artbl33d
+   Site: https://bsd.network/@h3artbl33d
+
+   Commenter: Iron Bug
+   Site: https://friendica.ironbug.org/profile/iron_bug
+   
+   Commenter: Diane
+   Site: https://octodon.social/@alienghic
+   
+   Commenter: Shawn Webb
+   Site: https://bsd.network/@lattera
+   
+   Artist/Mascot Creator: JoziPix
+   Site: https://www.instagram.com/jozipix/
+   From: France
+   
+/* SITE */
+
+   Last update:
+   Standards: HTML5, CSS
+   Software: Vuepress
+   
