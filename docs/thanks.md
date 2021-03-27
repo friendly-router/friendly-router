@@ -13,6 +13,9 @@ Thanks to all people involved in this project, here a list of people
 who helped this initiative to grow by being involved, giving feedback,
 criticism, and much more!
 
+[**erik**](https://chaos.social/@erikk): Thanks to mention mellanox
+hardware!
+
 [**h3artbl33d**](https://bsd.network/@h3artbl33d): Thanks to mention
 [bsd-hardware](https://bsd-hardware.info/) resource!
 

@@ -8,6 +8,9 @@
 
 /* THANKS */
 
+   Commenter: Erik
+   Site: https://chaos.social/@erikk
+
    Commenter: h3artbl33d
    Site: https://bsd.network/@h3artbl33d
 
