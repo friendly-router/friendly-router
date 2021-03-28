@@ -1,9 +1,12 @@
 ---
-license: ISC License
+license: CC BY-SA
 authors:
   - Mathieu Kerjouan
 
 title: Firewalls
+tags: [firewall, firewalls]
+
+sidebar: auto
 prev: /routers/
 next: /resources
 ---

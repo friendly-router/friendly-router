@@ -8,6 +8,9 @@
 
 /* THANKS */
 
+   Commenter: Mischa
+   site: https://bsd.network/@mischa
+
    Commenter: Erik
    Site: https://chaos.social/@erikk
 

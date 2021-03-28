@@ -2,11 +2,13 @@
 license: CC BY-SA
 authors:
   - Mathieu Kerjouan
+  
 title: Resources
 sidebar: auto
+
 tags: [resources, references]
 prev: /firewalls/
-next: /contribute
+next: /help
 ---
 
 ## OpenWRT Table of Hardware
@@ -28,3 +30,7 @@ next: /contribute
 ## NetBSD Supported Hardware
 
  * [https://www.netbsd.org/support/hardware/](https://www.netbsd.org/support/hardware/)
+
+## Cumulus OS Wiki
+
+ * [https://cumuluswiki.org](https://cumuluswiki.org)

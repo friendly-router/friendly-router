@@ -7,9 +7,16 @@ home: true
 title: Friend-Router Project
 
 heroText: Friendly Router Project
-tagline: A Friendly Open Source Database for Linux, Unix and BSD systems
+
+tagline: |
+  Collaborative and Agnostic Database, Documentation and Guides to
+  configure Open-Source Friendly Switches, Routers and
+  Firewalls. Designed to be easily shared with others.
+
 actionText: Get Started →
+
 actionLink: /database/
+
 features:
 - title: Open Source Friendly Database
   details: |

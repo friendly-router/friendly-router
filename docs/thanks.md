@@ -3,7 +3,7 @@ license: CC BY-SA
 authors:
   - Mathieu Kerjouan
 title: Thanks
-sidebar: false
+sidebar: auto
 prev: /contribute
 next: /contacts
 tags: [thanks, acknowledgment, thank-you]
@@ -12,6 +12,9 @@ tags: [thanks, acknowledgment, thank-you]
 Thanks to all people involved in this project, here a list of people
 who helped this initiative to grow by being involved, giving feedback,
 criticism, and much more!
+
+[**Mischa**](https://bsd.network/@mischa): thanks to mention Arista,
+CumulusOS and EdgeCore!
 
 [**erik**](https://chaos.social/@erikk): Thanks to mention mellanox
 hardware!
