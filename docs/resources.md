@@ -5,6 +5,8 @@ authors:
 title: Resources
 sidebar: auto
 tags: [resources, references]
+prev: /firewalls/
+next: /contribute
 ---
 
 ## OpenWRT Table of Hardware

@@ -1,7 +1,11 @@
 ---
+license: ISC License
+authors:
+  - Mathieu Kerjouan
+
 title: Firewalls
 prev: /routers/
-next: /mascot
+next: /resources
 ---
 
 ::: warning
@@ -9,3 +13,4 @@ next: /mascot
 This page is actually empty... More information will be added soon!
 
 :::
+

@@ -30,3 +30,25 @@ else
 	@echo TARGET variable not defined
 endif
 
+######################################################################
+# database targets, use with care. this is actually in test and
+# should be replaced by python or javascript script. please don't
+# use it right now.
+######################################################################
+.PHONY += update-database
+update-database: update-manufacturers
+
+.PHONY += update-manufacturers
+update-manufacturers: docs/database/_manufacturers.md
+
+docs/database/_manufacturers.md::
+	ls docs/database 			\
+		| grep -v '.md$$' 		\
+		| sed 's/.*/| [&](&) |/'	\
+		| sed '1 i \
+|----|\
+'				\
+		| sed '1 i \
+|manufacturers|\
+'		\
+		> $(@)

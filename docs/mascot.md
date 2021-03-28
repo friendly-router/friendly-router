@@ -4,8 +4,8 @@ authors:
   - Mathieu Kerjouan
 
 title: Mascot
-prev: /firewalls/
-next: /contribute
+prev: /thanks
+next: /contacts
 tags: [mascot, switchy]
 ---
 

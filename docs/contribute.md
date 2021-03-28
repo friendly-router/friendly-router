@@ -5,7 +5,7 @@ authors:
 
 title: Contribute
 sidebar: auto
-prev: /mascot
+prev: /resources
 next: /thanks
 tags: [contribute, participate, share]
 ---
