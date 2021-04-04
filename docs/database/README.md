@@ -5,8 +5,79 @@ next: /switches/
 sidebar: auto
 ---
 
+::: warning
+
 A database of Friendly Open Source Hardwares for switches, routers and
 firewalls. Here the first list made in 2017. It will be updated soon.
+
+:::
+
+
+## Database Rules
+
+## List of Manufacturers
+
+ * [3com](3com/)
+ * [4g-systems](4g-systems/)
+ * [7links](7links/)
+ * [8devices](8devices/)
+ * [_template](_template/)
+ * [abicom-international](abicom-international/)
+ * [accton](accton/)
+ * [actiontec](actiontec/)
+ * [adb](adb/)
+ * [adi-engineering](adi-engineering/)
+ * [adslr](adslr/)
+ * [adtran-bluesocket](adtran-bluesocket/)
+ * [aerohive](aerohive/)
+ * [afoundry](afoundry/)
+ * [agestar](agestar/)
+ * [airlink101](airlink101/)
+ * [airlive](airlive/)
+ * [airtight](airtight/)
+ * [akitio](akitio/)
+ * [alcatel-sbell](alcatel-sbell/)
+ * [alfa-network](alfa-network/)
+ * [allnet](allnet/)
+ * [arc-flex](arc-flex/)
+ * [arcadyan](arcadyan/)
+ * [arcadyan-astoria](arcadyan-astoria/)
+ * [arduino](arduino/)
+ * [arista](arista/)
+ * [aruba](aruba/)
+ * [asiarf](asiarf/)
+ * [askey](askey/)
+ * [asmax](asmax/)
+ * [asrock](asrock/)
+ * [asus](asus/)
+ * [atlantis](atlantis/)
+ * [atmel](atmel/)
+ * [audiocodes](audiocodes/)
+ * [avm](avm/)
+ * [avnet](avnet/)
+ * [aximcom](aximcom/)
+ * [aztech](aztech/)
+ * [bdcom](bdcom/)
+ * [belkin](belkin/)
+ * [billion](billion/)
+ * [bitmain](bitmain/)
+ * [bpi](bpi/)
+ * [commell](commell/)
+ * [cstipc](cstipc/)
+ * [edge-core](edge-core/)
+ * [gigabyte](gigabyte/)
+ * [inctel](inctel/)
+ * [jetway](jetway/)
+ * [mellanox](mellanox/)
+ * [msi](msi/)
+ * [norco](norco/)
+ * [pcengine](pcengine/)
+ * [protectli](protectli/)
+ * [soekris](soekris/)
+ * [solid-run](solid-run/)
+ * [supermicro](supermicro/)
+ * [traverse](traverse/)
+ * [turris](turris/)
 
 ## [asus](asus/)
 

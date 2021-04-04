@@ -1,7 +1,7 @@
 ---
-title: device identifier
+title: 4x4-4300u
 sidebar: auto
-prev: ../
+prev: ../asrock/
 ---
 
 > Here the product note and other criticism about the hardware.
