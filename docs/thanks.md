@@ -13,6 +13,9 @@ Thanks to all people involved in this project, here a list of people
 who helped this initiative to grow by being involved, giving feedback,
 criticism, and much more!
 
+[**Stellar**](https://fedi.absturztau.be/users/Stellar): thanks for
+the noise on Linkedin!
+
 [**Mischa**](https://bsd.network/@mischa): thanks to mention Arista,
 CumulusOS and EdgeCore!
 

@@ -8,6 +8,9 @@
 
 /* THANKS */
 
+   Commenter: Stellar
+   site: https://fedi.absturztau.be/users/Stellar
+
    Commenter: Mischa
    site: https://bsd.network/@mischa
 
