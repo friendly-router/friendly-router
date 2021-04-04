@@ -70,6 +70,5 @@ prev: ../
 > here official links, documentation, with archived links. Use
 > web.archive.org and archive.today to create a snapshot.
 
- * [Official Product Link]()
-   [*archive ()*]()
+ * [Official Product Link](http://www.inctel.com.cn/product/detail/MotherboardB75SL)
    [*archive (archive.today)*](https://archive.ph/jFaCD)

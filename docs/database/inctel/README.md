@@ -38,5 +38,5 @@ prev: ../
 
 ## Resources and References
 
- * [https://www.asrockind.com](https://www.asrockind.com)
+ * [http://www.inctel.com.cn](http://www.inctel.com.cn)
 
