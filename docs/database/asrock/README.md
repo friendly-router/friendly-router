@@ -32,6 +32,4 @@ prev: ../
 
 ## Resources and References
 
- * [https://www.asrockind.com](https://www.asrockind.com)
-
- 
+ * [https://www.asrockind.com](https://www.asrockind.com) 
