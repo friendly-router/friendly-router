@@ -1,5 +1,5 @@
 ---
-title: ls-574
+title: ls-576
 sidebar: auto
 prev: ../
 ---
@@ -13,34 +13,39 @@ Request on
 
 :::
 
-
 ## Specifications (summary)
 
 > A quick view of the specification for this device.
 
 ## Specifications  (full)
 
- * CPU: Intel® 2nd generation Core™ i7/ i5/ i3 & Celeron Mobile in the rPGA988B socket
+ * CPU: Intel® 3rd generation Core™ i7/ i5/ i3/ Mobile in the rPGA988B socket
 
  * Memory: Two DDR3 1006/1333/1600 MHz up to 16 GB
 
- * Chipset: Mobile Intel® QM67 Express chipset
+ * Chipset: Mobile Intel® QM77 Express chipset
 
- * Display Interface: Integrated Intel Core™ HD graphics Technology
+ * Integrated Graphics: Intel® Core™ integrated HD Graphics 4000 Technology
+
+ * VGA Interface: Onboard DSUB15 connector for VGA interface
 
  * LVDS interface: onboard 24-bit dual channel LVDS interface
-
+ 
  * DVI interface: onboard DVI interface
+                                          
+ * LAN Interface: 5 x Intel® 82574L Giga LAN and 1 x Intel® 82579LM Giga LAN(Support iAMT8.0)
 
- * LAN Interface: 6 x Intel® 82574L Giga LAN.
-
- * Serial ATA: Support 6 x SATA
+ * Serial ATA: Support 6 x SATA ( 4 x serial ATAII, 2 x serial ATAIII )
 
  * Audio: Realtek ALC888 High Definition Audio.
 
- * I/O ports: 5 x RS232 and 1 x RS232/422/485 Serial Ports, 8 x USB2.0 ports, 1 x DB15 VGA port, 1 x PS/2 keyboard and mouse ports, 1 x LPT
+ * I/O ports: 5 x RS232 and 1 x RS232/422/485 Serial Ports, 4 x USB2.0 ports, 4 x USB3.0 ports, 1 x DB15 VGA port.
 
- * Extended interface: 2 x Mini-PCIe sockets , 1 x SIM socket.                                            
+ * Extended interface: 2 x Mini-PCIe sockets (Optional support mSATA(SATAII) for Mini_Card1,but SATA6 will be disable),  1 x SIM socket.
+
+ * GPIO interface: Onboard programmable 8-bit Digital I/O interface.
+
+ * Power requirement : Standard 20-pin ATX P/S or DC 9 ~ 24V input                                                                         
 
 ## Documentation
 
@@ -82,5 +87,5 @@ Request on
 > here official links, documentation, with archived links. Use
 > web.archive.org and archive.today to create a snapshot.
 
- * [Official Product Link](http://www.commell.com.tw/Product/SBC/LS-574.HTM)
-   [*archive (archive.today)*](https://archive.ph/6iBXg)
+ * [Official Product Link](http://www.commell.com.tw/Product/SBC/LS-576.HTM)
+   [*archive (archive.today)*](https://archive.ph/LO8SE)
