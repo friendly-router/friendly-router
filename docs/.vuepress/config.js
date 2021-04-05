@@ -36,7 +36,8 @@ module.exports = {
                 { text: 'Switches', link: '/switches/' },
                 { text: 'Routers', link: '/routers/' },
                 { text: 'Firewalls', link: '/firewalls/' },
-                { text: 'Resources', link: '/resources' }
+                { text: 'Resources', link: '/resources' },
+                { text: 'Rules and Templates', link: '/_database/' }
             ]},
             { text: 'Community', items: [
                 { text: 'Help', link: '/help' },
