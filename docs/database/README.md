@@ -15,13 +15,15 @@ firewalls. Here the first list made in 2017. It will be updated soon.
 
 ## Database Rules
 
+All templates, rules, goals and so on can be found in
+[_database](/_database) directory.
+
 ## List of Manufacturers
 
  * [3com](3com/)
  * [4g-systems](4g-systems/)
  * [7links](7links/)
  * [8devices](8devices/)
- * [_template](_template/)
  * [abicom-international](abicom-international/)
  * [accton](accton/)
  * [actiontec](actiontec/)

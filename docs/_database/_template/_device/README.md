@@ -1,5 +1,5 @@
 ---
-title: device identifier
+title: device template
 sidebar: auto
 prev: ../
 ---
