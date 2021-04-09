@@ -4,7 +4,21 @@ sidebar: auto
 prev: ../
 ---
 
-## [supermicro](supermicro/)
+> Super Micro Computer, Inc, doing business as Supermicro, is an
+> information technology company based in San Jose,
+> California. Supermicro's headquarters are located in Silicon Valley,
+> with a manufacturing space in the Netherlands and a Science and
+> Technology Park in Taiwan.
+>
+> -- [Wikipedia](https://en.wikipedia.org/wiki/Supermicro)
+
+## Products
+
+| Name                      | Doc | Test | Bench | Hack | Note |
+|---------------------------|-----|------|-------|------|------|
+| 
+
+## Archives
 
 |Name|Reference or ID|Link|Architecture|
 |----|---------------|----|------------|
@@ -18,3 +32,7 @@ prev: ../
 |supermicro|A1SRM-LN7F-2758|[https://www.supermicro.nl/products/motherboard/Atom/X10/A1SRM-LN7F-2758.cfm](https://www.supermicro.nl/products/motherboard/Atom/X10/A1SRM-LN7F-2758.cfm)|x86_64|
 |supermicro|X11SSH-LN4F|[https://www.supermicro.nl/products/motherboard/Xeon/C236_C232/X11SSH-LN4F.cfm](https://www.supermicro.nl/products/motherboard/Xeon/C236_C232/X11SSH-LN4F.cfm)|x86_64|
 |supermicro|X11SBA-LN4F|[https://www.supermicro.nl/products/motherboard/X11/X11SBA-LN4F.cfm](https://www.supermicro.nl/products/motherboard/X11/X11SBA-LN4F.cfm)|x86_64|
+
+## Resources and References
+
+ * [https://www.supermicro.com](https://www.supermicro.com)
