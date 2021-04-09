@@ -22,22 +22,22 @@ All templates, rules, goals and so on can be found in
 
 | manufacturers                                 | devices | hardwares | resellers | note |
 |-----------------------------------------------|---------|-----------|-----------|------|
-| [3com](3com/)                                 |       - |         - |         - |    - |
-| [4g-systems](4g-systems/)                     |       - |         - |         - |    - |
-| [7links](7links/)                             |       - |         - |         - |    - |
-| [8devices](8devices/)                         |       - |         - |         - |    - |
-| [abicom-international](abicom-international/) |       - |         - |         - |    - |
-| [accton](accton/)                             |       - |         - |         - |    - |
-| [actiontec](actiontec/)                       |       - |         - |         - |    - |
-| [adb](adb/)                                   |       - |         - |         - |    - |
-| [adi-engineering](adi-engineering/)           |       - |         - |         - |    - |
-| [adslr](adslr/)                               |       - |         - |         - |    - |
+| [3com](3com/)                                 |       0 |         0 |         0 |    - |
+| [4g-systems](4g-systems/)                     |       0 |         0 |         0 |    - |
+| [7links](7links/)                             |       0 |         0 |         0 |    - |
+| [8devices](8devices/)                         |       0 |         0 |         0 |    - |
+| [abicom-international](abicom-international/) |       0 |         0 |         0 |    - |
+| [accton](accton/)                             |       0 |         0 |         0 |    - |
+| [actiontec](actiontec/)                       |       0 |         - |         - |    - |
+| [adb](adb/)                                   |       0 |         - |         - |    - |
+| [adi-engineering](adi-engineering/)           |       0 |         - |         - |    - |
+| [adslr](adslr/)                               |       0 |         - |         - |    - |
 | [adtran-bluesocket](adtran-bluesocket/)       |       - |         - |         - |    - |
 | [aerohive](aerohive/)                         |       - |         - |         - |    - |
 | [afoundry](afoundry/)                         |       - |         - |         - |    - |
 | [agestar](agestar/)                           |       - |         - |         - |    - |
 | [airlink101](airlink101/)                     |       - |         - |         - |    - |
-| [airlive](airlive/)                           |       - |         - |         - |    - |
+| [airlive](airlive/)                           |       0 |         - |         - |    - |
 | [airtight](airtight/)                         |       - |         - |         - |    - |
 | [akitio](akitio/)                             |       - |         - |         - |    - |
 | [alcatel-sbell](alcatel-sbell/)               |       - |         - |         - |    - |
