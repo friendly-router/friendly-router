@@ -19,6 +19,12 @@ All templates, rules, goals and so on can be found in
 
 ## List of Manufacturers
 
+::: tip
+
+This a manually generated list of manufacturers offering compatible
+open-source products.
+
+:::
 
 | manufacturers                                 | devices | hardwares | resellers | note |
 |-----------------------------------------------|---------|-----------|-----------|------|
@@ -32,14 +38,14 @@ All templates, rules, goals and so on can be found in
 | [adb](adb/)                                   |       0 |         - |         - |    - |
 | [adi-engineering](adi-engineering/)           |       0 |         - |         - |    - |
 | [adslr](adslr/)                               |       0 |         - |         - |    - |
-| [adtran-bluesocket](adtran-bluesocket/)       |       - |         - |         - |    - |
-| [aerohive](aerohive/)                         |       - |         - |         - |    - |
+| [adtran-bluesocket](adtran-bluesocket/)       |       0 |         - |         - |    - |
+| [aerohive](aerohive/)                         |       0 |         - |         - |    - |
 | [afoundry](afoundry/)                         |       - |         - |         - |    - |
 | [agestar](agestar/)                           |       - |         - |         - |    - |
 | [airlink101](airlink101/)                     |       - |         - |         - |    - |
 | [airlive](airlive/)                           |       0 |         - |         - |    - |
 | [airtight](airtight/)                         |       - |         - |         - |    - |
-| [akitio](akitio/)                             |       - |         - |         - |    - |
+| [akitio](akitio/)                             |       0 |         - |         - |    - |
 | [alcatel-sbell](alcatel-sbell/)               |       - |         - |         - |    - |
 | [alfa-network](alfa-network/)                 |       - |         - |         - |    - |
 | [allnet](allnet/)                             |       - |         - |         - |    - |
@@ -47,28 +53,28 @@ All templates, rules, goals and so on can be found in
 | [arcadyan](arcadyan/)                         |       - |         - |         - |    - |
 | [arcadyan-astoria](arcadyan-astoria/)         |       - |         - |         - |    - |
 | [arduino](arduino/)                           |       - |         - |         - |    - |
-| [arista](arista/)                             |       - |         - |         - |    - |
-| [aruba](aruba/)                               |       - |         - |         - |    - |
+| [arista](arista/)                             |       0 |         - |         - |    - |
+| [aruba](aruba/)                               |       0 |         - |         - |    - |
 | [asiarf](asiarf/)                             |       - |         - |         - |    - |
 | [askey](askey/)                               |       - |         - |         - |    - |
 | [asmax](asmax/)                               |       - |         - |         - |    - |
 | [asrock](asrock/)                             |      11 |         0 |         0 |    - |
-| [asus](asus/)                                 |       - |         - |         - |    - |
+| [asus](asus/)                                 |       0 |         - |         - |    - |
 | [atlantis](atlantis/)                         |       - |         - |         - |    - |
 | [atmel](atmel/)                               |       - |         - |         - |    - |
 | [audiocodes](audiocodes/)                     |       - |         - |         - |    - |
 | [avm](avm/)                                   |       - |         - |         - |    - |
-| [avnet](avnet/)                               |       - |         - |         - |    - |
+| [avnet](avnet/)                               |       0 |         - |         - |    - |
 | [aximcom](aximcom/)                           |       - |         - |         - |    - |
-| [aztech](aztech/)                             |       - |         - |         - |    - |
-| [bdcom](bdcom/)                               |       - |         - |         - |    - |
-| [belkin](belkin/)                             |       - |         - |         - |    - |
-| [billion](billion/)                           |       - |         - |         - |    - |
-| [bitmain](bitmain/)                           |       - |         - |         - |    - |
-| [bpi](bpi/)                                   |       - |         - |         - |    - |
+| [aztech](aztech/)                             |       0 |         - |         - |    - |
+| [bdcom](bdcom/)                               |       0 |         - |         - |    - |
+| [belkin](belkin/)                             |       0 |         - |         - |    - |
+| [billion](billion/)                           |       0 |         - |         - |    - |
+| [bitmain](bitmain/)                           |       0 |         - |         - |    - |
+| [bpi](bpi/)                                   |       0 |         - |         - |    - |
 | [commell](commell/)                           |      16 |         0 |         0 |    - |
-| [cstipc](cstipc/)                             |       - |         - |         - |    - |
-| [edge-core](edge-core/)                       |       - |         - |         - |    - |
+| [cstipc](cstipc/)                             |       0 |         - |         - |    - |
+| [edge-core](edge-core/)                       |       0 |         - |         - |    - |
 | [gigabyte](gigabyte/)                         |       2 |         - |         - |    - |
 | [inctel](inctel/)                             |      14 |         0 |         0 |    - |
 | [jetway](jetway/)                             |       7 |         0 |         0 |    - |
