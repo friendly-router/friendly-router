@@ -34,3 +34,18 @@ next: /help
 ## Cumulus OS Wiki
 
  * [https://cumuluswiki.org](https://cumuluswiki.org)
+
+## Manufacturers Database
+
+### Global
+
+ * [https://en.wikipedia.org/wiki/List_of_networking_hardware_vendors](https://en.wikipedia.org/wiki/List_of_networking_hardware_vendors)
+
+### China
+
+ * [https://www.made-in-china.com/manufacturers/network-switch.html](https://www.made-in-china.com/manufacturers/network-switch.html)
+
+### Taiwan
+
+ * [http://www.manufacturers.com.tw/computers/router-manufacturers.html](http://www.manufacturers.com.tw/computers/router-manufacturers.html)
+ 
