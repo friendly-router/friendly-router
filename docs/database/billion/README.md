@@ -2,7 +2,7 @@
 title: Billion
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Billion Electric Co. Ltd. (Taiex: #3027), based in Taiwan, is an

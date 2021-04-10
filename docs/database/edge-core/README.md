@@ -4,7 +4,7 @@ authors:
   - Mathieu Kerjouan
   
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 >  “TRANSFORMING THE WAY THE WORLD CONNECTS” is the slogan of the

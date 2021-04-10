@@ -2,7 +2,7 @@
 title: Aztech
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > Being a turnkey, one-stop integrated solutions provider based in

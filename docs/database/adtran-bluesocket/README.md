@@ -2,7 +2,7 @@
 title: ADTRAN
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > ADTRAN, Inc. is a provider of telecommunications networking

@@ -2,7 +2,7 @@
 title: Belkin
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > Belkin International, Inc., is an American manufacturer of consumer

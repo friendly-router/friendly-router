@@ -2,7 +2,7 @@
 title: Aruba
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Aruba Networks, formerly known as Aruba Wireless Networks, is a

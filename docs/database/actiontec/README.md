@@ -2,7 +2,7 @@
 title: Actiontec
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > With more than 68 million connected home devices shipped to date, we

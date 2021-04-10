@@ -2,7 +2,7 @@
 title: AEROHIVE
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > Aerohive Networks was an American multinational computer networking

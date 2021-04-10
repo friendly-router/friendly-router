@@ -2,7 +2,7 @@
 title: bitmain
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Bitmain Technologies Ltd., is a privately owned company

@@ -1,7 +1,7 @@
 ---
 title: Soekris
 sidebar: auto
-previous: ../
+prev: ../
 ---
 
 

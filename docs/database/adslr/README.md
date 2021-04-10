@@ -2,7 +2,7 @@
 title: ADSLR
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 ## Products

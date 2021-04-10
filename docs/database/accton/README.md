@@ -2,7 +2,7 @@
 title: Accton
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Accton Technology Corporation (Public, TWSE: 2345) (Chinese: 智邦科

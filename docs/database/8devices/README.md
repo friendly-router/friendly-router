@@ -2,7 +2,7 @@
 title: 8 Devices
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 ## Products

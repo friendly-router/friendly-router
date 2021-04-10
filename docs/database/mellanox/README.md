@@ -2,7 +2,7 @@
 title: Mellanox
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Mellanox Technologies Ltd. (Hebrew: מלאנוקס טכנולוגיות בע"מ‎) is an

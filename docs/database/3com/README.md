@@ -2,7 +2,7 @@
 title: 3com
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > 3Com Corporation was a digital electronics manufacturer best known

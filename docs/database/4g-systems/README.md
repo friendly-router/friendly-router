@@ -2,7 +2,7 @@
 title: 4G Systems
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > 4G Systems GmbH & Co. KG is specialised in the design, development,

@@ -2,7 +2,7 @@
 title: bdcom
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > BDCOM Online Ltd. was incorporated as a Private Limited Company on

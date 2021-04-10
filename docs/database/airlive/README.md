@@ -2,7 +2,7 @@
 title: airlive
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > Accumulated yearly well experiences in networking and communication

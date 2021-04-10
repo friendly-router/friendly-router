@@ -2,7 +2,7 @@
 title: akitio
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Akitio is an international company specializing in the design,

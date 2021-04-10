@@ -2,7 +2,7 @@
 title: adi engineering
 draft: true
 sidebar: auto
-prev: ..
+prev: ../
 ---
 
 > ADI Engineering was founded in 1990 in Charlottesville, VA, where

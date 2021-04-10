@@ -2,7 +2,7 @@
 title: Avnet
 sidebar: auto
 draft: true
-prev: ..
+prev: ../
 ---
 
 > Avnet, Inc. is a distributor of electronic components headquartered
