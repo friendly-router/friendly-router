@@ -1,16 +1,9 @@
 ---
-title: Airtight Networks
+title: Mojo Networks
 draft: true
 sidebar: auto
 prev: ../
 ---
-
-::: warning
-
-Airtight is now known as [Mojo Networks](../mojo-networks/)
-
-:::
-
 
 > Mojo Networks is redefining the modern Wi-Fi platform. Imagine the
 > scalability to set up thousands of access points with a few clicks,
@@ -37,5 +30,4 @@ Airtight is now known as [Mojo Networks](../mojo-networks/)
 ## Resources and References
 
  * [http://www.mojonetworks.com/](http://www.mojonetworks.com/)
- * [https://www.linkedin.com/company/airtight-networks/](https://www.linkedin.com/company/airtight-networks/)
  
