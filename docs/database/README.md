@@ -81,5 +81,6 @@ open-source products.
 | [soekris](soekris/)                           |       5 |         0 |         0 |    - |
 | [solid-run](solid-run/)                       |       3 |         0 |         0 |    - |
 | [supermicro](supermicro/)                     |      11 |         - |         - |    - |
+| [tometek](tometek/)                           |       0 |
 | [traverse](traverse/)                         |       1 |         0 |         0 |    - |
 | [turris](turris/)                             |       3 |         0 |         0 |    - |
