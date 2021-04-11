@@ -75,7 +75,9 @@ open-source products.
 | [nokia-sbell](nokia-sbell/)                   |       0 |         - |         - |    - |
 | [norco](norco/)                               |       1 |         - |         - |    - |
 | [pcengine](pcengine/)                         |      13 |         0 |         0 |    - |
+| [pondesk](pondesk/)                           |       0 |         0 |         0 |    - |
 | [protectli](protectli/)                       |       4 |         0 |         0 |    - |
+| [qotom](qotom/)                               |       0 |         0 |         0 |    - |
 | [soekris](soekris/)                           |       5 |         0 |         0 |    - |
 | [solid-run](solid-run/)                       |       3 |         0 |         0 |    - |
 | [supermicro](supermicro/)                     |      11 |         - |         - |    - |
