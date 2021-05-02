@@ -1,12 +1,36 @@
 ---
+lang: en-US
 license: CC BY-SA
 authors:
   - Mathieu Kerjouan
-title: Thanks
+title: Thanks to our awesome contributors!
 sidebar: auto
 prev: /contribute
 next: /contacts
 tags: [thanks, acknowledgment, thank-you]
+
+meta:
+  - name: "twitter:card"
+    content: "Friendly Router Project"
+  - name: "twitter:site"
+    content: "https://friendly-router.org/thanks"
+  - name: "twitter:title"
+    content: "Thanks to our awesome contributors!"
+  - name: "description" 
+    content: | 
+      This project could not be alive without all its awesome community,
+      thanks to them for what they did!
+      
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "Thanks to our awesome contributors!"
+  - property: "og:url"
+    content: "https://friendly-router.org/thanks"
+  - property: "og:description"
+    content: |
+      This project could not be alive without all its awesome community,
+      thanks to them for what they did!
 ---
 
 Thanks to all people involved in this project, here a list of people

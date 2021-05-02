@@ -1,8 +1,18 @@
 module.exports = {
     title: "Friendly Router Project",
-    description: "Collaborative Database, Documentation and Guides to configure Open-Source Friendly Switches, Routers and Firewalls. Designed to be easily shared with others.",
+    description: "",
     head: [
         ['meta', { 'http-equiv': 'Content-Type', content: 'text/html', charset: 'utf8'}],
+        ['meta', { 'name': 'viewport', content: 'width=device-width, initial-scale=1'}],
+        ['meta', { 'name': 'description', content: 'Collaborative Database, Documentation and Guides to configure Open-Source Friendly Switches, Routers and Firewalls. Designed to be easily shared with others.'}],
+        ['meta', { 'name': 'keywords', content: 'database, router, routers, switch, switches, firewall, opensource, open-source, linux, unix, bsd, friendly, collaborative'}],
+        
+        ['meta', { 'name': 'twitter:image', content: 'https://friendly-router.org/images/switchy-200x200.png'}],
+        ['meta', { 'name': 'twitter:creator', content: '@FriendlyRouter'}],
+        
+        ['meta', { 'property': 'og:image', content: 'https://friendly-router.org/images/switchy-200x200.png'}],
+        ['meta', { 'property': 'og:type', content: 'website'}],
+        ['meta', { 'property': 'og:locale', content: 'en_US'}],
         
         ['link', { rel: 'icon', type: 'image/png', sizes: '128x128', href: '/images/switchy-128x128.png'}],
         ['link', { rel: 'icon', type: 'image/png', sizes: '150x150', href: '/images/switchy-150x150.png'}],

@@ -1,14 +1,39 @@
 ---
+lang: en-US
 license: CC BY-SA
 authors:
   - Mathieu Kerjouan
   
-title: Resources
+title: References and Resources
 sidebar: auto
 
 tags: [resources, references]
 prev: /firewalls/
 next: /help
+
+meta:
+  - name: "twitter:card"
+    content: "Friendly Router Project"
+  - name: "twitter:site"
+    content: "https://friendly-router.org/resources"
+  - name: "twitter:title"
+    content: "References and Resources"
+  - name: "description" 
+    content: | 
+      Find here important links, references and resources. 
+      It will help you to get access to the same information than us.
+      
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "References and Resources"
+  - property: "og:url"
+    content: "https://friendly-router.org/resources"
+  - property: "og:description"
+    content: |
+      Find here important links, references and resources. 
+      It will help you to get access to the same information than us.
+
 ---
 
 ## OpenWRT Table of Hardware

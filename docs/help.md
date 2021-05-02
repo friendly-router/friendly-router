@@ -1,37 +1,30 @@
 ---
+lang: en-US
 license: CC BY-SA
-title: Help
+title: Help and Frequently Asked Questions
 sidebar: auto
 prev: /resources
 next: /contribute
 
 meta:
   - name: "twitter:card"
-    value: "Friendly Router"
+    content: "Friendly Router Project"
   - name: "twitter:site"
-    value: "https://friendly-router.org/help"
+    content: "https://friendly-router.org/help"
   - name: "twitter:title"
-    value: "Friendly Router Project"
+    content: "Help and Frequently Asked Questions"
   - name: "description" 
-    value: | 
+    content: | 
       Collaborative Database, Documentation and Guides to configure
       Open-Source Friendly Switches, Routers and Firewalls. Designed
       to be easily shared with others.
-      
-  - name: "twitter:creator"
-    value: "@FriendlyRouter"
-  - name: "twitter:image"
-    value: "https://friendly-router.org/images/switchy-200x200.png"
+
   - property: "og:site_name"
     content: "Friendly Router Project"
   - property: "og:title"
-    content: "Friendly Router Project"
-  - property: "og:type"
-    content: "website"
+    content: "Help and Frequently Asked Questions"
   - property: "og:url"
     content: "https://friendly-router.org/help"
-  - property: "og:image"
-    content: "https://friendly-router.org/images/switchy-200x200.png"
   - property: "og:description"
     content: |
       Collaborative Database, Documentation and Guides to configure

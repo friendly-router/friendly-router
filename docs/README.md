@@ -4,31 +4,23 @@ license: CC BY-SA
 
 meta:
   - name: "twitter:card"
-    value: "Friendly Router"
+    content: "Friendly Router Project"
   - name: "twitter:site"
-    value: "https://friendly-router.org"
+    content: "https://friendly-router.org"
   - name: "twitter:title"
-    value: "Friendly Router Project"
+    content: "Welcome to Friendly Router Project"
   - name: "description" 
-    value: | 
+    content: | 
       Collaborative Database, Documentation and Guides to configure
       Open-Source Friendly Switches, Routers and Firewalls. Designed
       to be easily shared with others.
       
-  - name: "twitter:creator"
-    value: "@FriendlyRouter"
-  - name: "twitter:image"
-    value: "https://friendly-router.org/images/switchy-200x200.png"
   - property: "og:site_name"
     content: "Friendly Router Project"
   - property: "og:title"
-    content: "Friendly Router Project"
-  - property: "og:type"
-    content: "website"
+    content: "Welcome to Friendly Router Project"
   - property: "og:url"
     content: "https://friendly-router.org"
-  - property: "og:image"
-    content: "https://friendly-router.org/images/switchy-200x200.png"
   - property: "og:description"
     content: |
       Collaborative Database, Documentation and Guides to configure

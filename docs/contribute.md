@@ -1,14 +1,45 @@
 ---
+lang: en-US
 license: CC BY-SA
 authors:
   - Mathieu Kerjouan
 
-title: Contribute
+title: Help us and contribute to Friendly Router Project
 sidebar: auto
 
 prev: /help
 next: /thanks
 tags: [contribute, participate, share]
+
+meta:
+  - name: description
+    content: |
+      Come and help us to update the our open-source and friendly
+      database, share your experience with one or more devices.
+      
+  - name: "twitter:card"
+    content: "Friendly Router"
+  - name: "twitter:site"
+    content: "https://friendly-router.org/contribute"
+  - name: "twitter:title"
+    content: "Help us and Contribute to Friendly Router Project"
+  - name: "description" 
+    content: |
+      Come and help us to update the our open-source and friendly
+      database, share your experience with one or more devices.
+      
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "Help us and Contribute to Friendly Router Project"
+  - property: "og:url"
+    content: "https://friendly-router.org/contribute"
+  - property: "og:description"
+    content: |
+      Come and help us to update the our open-source and friendly
+      database, share your experience with one or more devices.
+
+
 ---
 
 ::: warning
