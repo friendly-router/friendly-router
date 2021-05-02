@@ -12,10 +12,6 @@ next: /contacts
 tags: [mascot, switchy]
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/mascot"
   - name: "twitter:title"
     content: "Say hello to Switchy, our marvelous mascot!"
   - name: "description" 

@@ -10,10 +10,6 @@ next: /contacts
 tags: [thanks, acknowledgment, thank-you]
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/thanks"
   - name: "twitter:title"
     content: "Thanks to our awesome contributors!"
   - name: "description" 

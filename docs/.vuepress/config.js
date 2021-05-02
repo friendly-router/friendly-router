@@ -6,11 +6,17 @@ module.exports = {
         ['meta', { 'name': 'viewport', content: 'width=device-width, initial-scale=1'}],
         ['meta', { 'name': 'description', content: 'Collaborative Database, Documentation and Guides to configure Open-Source Friendly Switches, Routers and Firewalls. Designed to be easily shared with others.'}],
         ['meta', { 'name': 'keywords', content: 'database, router, routers, switch, switches, firewall, opensource, open-source, linux, unix, bsd, friendly, collaborative'}],
-        
+
+        ['meta', { 'name': 'twitter:card', content: 'summary'}],
+        ['meta', { 'name': 'twitter:site', content: '@FriendlyRouter'}],
         ['meta', { 'name': 'twitter:image', content: 'https://friendly-router.org/images/switchy-200x200.png'}],
+        ['meta', { 'name': 'twitter:image:alt', content: 'Switchy, our awesome mascot!'}],
         ['meta', { 'name': 'twitter:creator', content: '@FriendlyRouter'}],
+        ['meta', { 'name': 'twitter:creator:id', content: '@FriendlyRouter'}],
         
         ['meta', { 'property': 'og:image', content: 'https://friendly-router.org/images/switchy-200x200.png'}],
+        ['meta', { 'property': 'og:image:width', content: '200'}],
+        ['meta', { 'property': 'og:image:height', content: '200'}],
         ['meta', { 'property': 'og:type', content: 'website'}],
         ['meta', { 'property': 'og:locale', content: 'en_US'}],
         

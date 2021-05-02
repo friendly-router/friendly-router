@@ -10,10 +10,6 @@ next: /
 tags: [contacts, email, mail, mastodon, irc, github, gitlab]
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/contacts"
   - name: "twitter:title"
     content: "Contact Us"
   - name: "description" 

@@ -7,10 +7,6 @@ prev: /resources
 next: /contribute
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/help"
   - name: "twitter:title"
     content: "Help and Frequently Asked Questions"
   - name: "description" 

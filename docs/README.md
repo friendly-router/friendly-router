@@ -3,10 +3,6 @@ lang: en-US
 license: CC BY-SA
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org"
   - name: "twitter:title"
     content: "Welcome to Friendly Router Project"
   - name: "description" 

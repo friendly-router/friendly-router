@@ -17,10 +17,6 @@ meta:
       Come and help us to update the our open-source and friendly
       database, share your experience with one or more devices.
       
-  - name: "twitter:card"
-    content: "Friendly Router"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/contribute"
   - name: "twitter:title"
     content: "Help us and Contribute to Friendly Router Project"
   - name: "description" 

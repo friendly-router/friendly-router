@@ -12,10 +12,6 @@ prev: /firewalls/
 next: /help
 
 meta:
-  - name: "twitter:card"
-    content: "Friendly Router Project"
-  - name: "twitter:site"
-    content: "https://friendly-router.org/resources"
   - name: "twitter:title"
     content: "References and Resources"
   - name: "description" 
