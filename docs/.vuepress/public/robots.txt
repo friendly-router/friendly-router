@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://friendly-router.org/sitemap.xml
