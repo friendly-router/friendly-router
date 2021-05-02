@@ -11,9 +11,9 @@ meta:
     content: "Help and Frequently Asked Questions"
   - name: "description" 
     content: | 
-      Collaborative Database, Documentation and Guides to configure
-      Open-Source Friendly Switches, Routers and Firewalls. Designed
-      to be easily shared with others.
+      Friendly Router Project is lead by the community, for
+      the community. To make things easier, procedures where
+      created to deal with the complexity. 
 
   - property: "og:site_name"
     content: "Friendly Router Project"
@@ -23,9 +23,10 @@ meta:
     content: "https://friendly-router.org/help"
   - property: "og:description"
     content: |
-      Collaborative Database, Documentation and Guides to configure
-      Open-Source Friendly Switches, Routers and Firewalls. Designed
-      to be easily shared with others.
+      Friendly Router Project is lead by the community, for
+      the community. To make things easier, procedures where
+      created to deal with the complexity. 
+
 ---
 
 ## FAQ

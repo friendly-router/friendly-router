@@ -14,9 +14,9 @@ meta:
     content: "Contact Us"
   - name: "description" 
     content: | 
-      Collaborative Database, Documentation and Guides to configure
-      Open-Source Friendly Switches, Routers and Firewalls. Designed
-      to be easily shared with others.
+      Need more information? Want to ask question directly? Want to share
+      something, or something is missing? You will find all information 
+      there!
       
   - property: "og:site_name"
     content: "Friendly Router Project"
@@ -26,9 +26,9 @@ meta:
     content: "https://friendly-router.org/contacts"
   - property: "og:description"
     content: |
-      Collaborative Database, Documentation and Guides to configure
-      Open-Source Friendly Switches, Routers and Firewalls. Designed
-      to be easily shared with others.
+      Need more information? Want to ask question directly? Want to share
+      something, or something is missing? You will find all information 
+      there!
 
 ---
 

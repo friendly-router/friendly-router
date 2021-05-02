@@ -51,5 +51,10 @@ module.exports = {
         ],
         nextLinks: true,
         prevLinks: true
+    },
+    plugins: {
+        'sitemap': {
+            hostname: 'https://friendly-router.org'
+        }
     }
 }
