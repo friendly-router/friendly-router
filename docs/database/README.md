@@ -1,8 +1,40 @@
 ---
+lang: en-US
 title: Database
 prev: /
 next: /switches/
 sidebar: auto
+
+meta:
+  - name: "twitter:card"
+    value: "Friendly Router Project"
+  - name: "twitter:site"
+    value: "https://friendly-router.org/database"
+  - name: "twitter:title"
+    value: "Database"
+  - name: "description" 
+    value: | 
+      List of available friendly devices and hardware
+      in an Open Database fashion.
+      
+  - name: "twitter:creator"
+    value: "@FriendlyRouter"
+  - name: "twitter:image"
+    value: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "Database"
+  - property: "og:type"
+    content: "website"
+  - property: "og:url"
+    content: "https://friendly-router.org/database"
+  - property: "og:image"
+    content: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:description"
+    content: |
+      List of available friendly devices and hardware
+      in an Open Database fashion.
 ---
 
 ::: warning

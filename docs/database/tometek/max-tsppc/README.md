@@ -1,7 +1,38 @@
 ---
+lang: en-US
 title: max-tsppc
 prev: ../
 sidebar: auto
+
+meta:
+  - name: "twitter:card"
+    value: "Friendly Router Project"
+  - name: "twitter:site"
+    value: "https://friendly-router.org/database/tometek/max-tsppc"
+  - name: "twitter:title"
+    value: "Database | Tometek | max-tsppc"
+  - name: "description" 
+    value: | 
+      Tometek max-sppc with 4 POE+ and 2 SFP+.
+      
+  - name: "twitter:creator"
+    value: "@FriendlyRouter"
+  - name: "twitter:image"
+    value: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "Database | Tometek | max-tsppc"
+  - property: "og:type"
+    content: "website"
+  - property: "og:url"
+    content: "https://friendly-router.org/database/tometek/max-tsppc"
+  - property: "og:image"
+    content: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:description"
+    content: |
+      Tometek max-sppc with 4 POE+ and 2 SFP+.
+
 ---
 
 > Here the product note and other criticism about the hardware.

@@ -7,6 +7,40 @@ title: Contacts
 prev: /contribute
 next: /
 tags: [contacts, email, mail, mastodon, irc, github, gitlab]
+
+meta:
+  - name: "twitter:card"
+    value: "Friendly Router"
+  - name: "twitter:site"
+    value: "https://friendly-router.org/contacts"
+  - name: "twitter:title"
+    value: "Friendly Router Project"
+  - name: "description" 
+    value: | 
+      Collaborative Database, Documentation and Guides to configure
+      Open-Source Friendly Switches, Routers and Firewalls. Designed
+      to be easily shared with others.
+      
+  - name: "twitter:creator"
+    value: "@FriendlyRouter"
+  - name: "twitter:image"
+    value: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:site_name"
+    content: "Friendly Router Project"
+  - property: "og:title"
+    content: "Friendly Router Project"
+  - property: "og:type"
+    content: "website"
+  - property: "og:url"
+    content: "https://friendly-router.org/contacts"
+  - property: "og:image"
+    content: "https://friendly-router.org/images/switchy-200x200.png"
+  - property: "og:description"
+    content: |
+      Collaborative Database, Documentation and Guides to configure
+      Open-Source Friendly Switches, Routers and Firewalls. Designed
+      to be easily shared with others.
+
 ---
 
  * mail: contact [at] friendly-router [dot] org
