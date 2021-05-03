@@ -2,9 +2,9 @@ module.exports = {
     title: "Friendly Router Project",
     description: "",
     head: [
-        ['meta', { 'http-equiv': 'Content-Type', content: 'text/html', charset: 'utf8'}],
+        ['meta', { 'http-equiv': 'Content-Type', content: 'text/html', charset: 'utf-8'}],
         ['meta', { 'name': 'viewport', content: 'width=device-width, initial-scale=1'}],
-        ['meta', { 'name': 'description', content: 'Collaborative Database, Documentation and Guides to configure Open-Source Friendly Switches, Routers and Firewalls. Designed to be easily shared with others.'}],
+        ['meta', { 'name': 'description', content: 'Collaborative Database, Documentation and Guides to configure Open-Source Friendly Switches, Routers and Firewalls. Designed to be easy to share.'}],
         ['meta', { 'name': 'keywords', content: 'database, router, routers, switch, switches, firewall, opensource, open-source, linux, unix, bsd, friendly, collaborative'}],
 
         ['meta', { 'name': 'twitter:card', content: 'summary'}],
